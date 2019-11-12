@@ -1,0 +1,5 @@
+Ivanov 45000
+Petrov 37000
+Sidorov 19000
+Smith 15000
+Trump 51000
